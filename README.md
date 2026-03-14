@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack Developer</h3>
 
-<!--
-**sharmasaurav8077/sharmasaurav8077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 B.Tech Student
+- 💻 Passionate about Web Development
+- 🚀 Learning MERN Stack
+- 🌐 Building real world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+---
+
+### 📂 Projects
+- Krashnatri Associates (MERN Stack)
+- Weather App
+- Bubble Game
+- Personal Portfolio Website
+
+---
+
+### 🌐 Portfolio
+https://portfolio-website-37eokiv0p-saurav-sharma-s-projects.vercel.app
+
+---
+
+### 📫 Contact
+Email: sharmasaurav8077@gmail.com  
+LinkedIn: https://www.linkedin.com/in/saurav-sharma-77a649302
