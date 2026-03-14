@@ -29,11 +29,6 @@
 
 ---
 
-### 🌐 Portfolio
-https://portfolio-website-37eokiv0p-saurav-sharma-s-projects.vercel.app
-
----
-
 ### 📫 Contact
 Email: sharmasaurav8077@gmail.com  
 LinkedIn: https://www.linkedin.com/in/saurav-sharma-77a649302
